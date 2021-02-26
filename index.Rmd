@@ -1,0 +1,13 @@
+---
+title: "Index"
+author: "Yuqing Zhang"
+date: "2021/2/26"
+output: html_document
+---
+
+# Welcome
+
+## Author: Yuqing Zhang
+## Collaborator: Yuqing Chen
+
+![GitHub vs. Microsoft](https://i.kym-cdn.com/photos/images/original/001/378/754/99d.jpg)

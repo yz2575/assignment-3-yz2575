@@ -1,0 +1,12 @@
+---
+title: "Yuqing Zhang"
+author: "Yuqing Zhang"
+date: "2021/2/26"
+output: html_document
+---
+
+# About Me
+## 2nd-year **Master of Regional Planning** student at Cornell
+## graduted with **Bachelor of Architecture** degree from Central Academy of Fine Arts
+## **student entrepreneur** at Cornell eLab
+## trying to live a healthier lifestyle
