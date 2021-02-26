@@ -1,0 +1,11 @@
+---
+title: "Yuqing Chen"
+author: "Yuqing Chen"
+output: html_document
+---
+
+# About me
+
+- I'm from Amoy, an island city
+- I love watching sunrise & sunset
+- No coffee
