@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Yuqing Zhang"
+      href: yuqing-zhang.html
+    - text: "Yuqing Chen"
+      href: yuqing-chen.html

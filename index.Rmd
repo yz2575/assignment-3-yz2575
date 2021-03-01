@@ -1,13 +1,14 @@
 ---
-title: "Index"
-author: "Yuqing Zhang"
+title: "Two Yuqings working on Assignment 3"
+author: "Yuqing Zhang & Yuqing Chen"
 date: "2021/2/26"
 output: html_document
 ---
 
-# Welcome
+# Our GitHub Accounts
+[Yuqing Chen](https://github.com/yuqingc7)  
+[Yuqing Zhang](https://github.com/yz2575)
 
-## Author: Yuqing Zhang
-## Collaborator: Yuqing Chen
+# Funnay Image
+![GitHub & Microsoft](https://i.kym-cdn.com/photos/images/newsfeed/001/378/754/99d.jpg)
 
-![GitHub vs. Microsoft](https://i.kym-cdn.com/photos/images/original/001/378/754/99d.jpg)
